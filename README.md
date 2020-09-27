@@ -15,10 +15,10 @@ Lightspeed is a cloud-based commerce platform powering small and medium-sized bu
 The company was founded by Dax Dasilva to bring the ‘Apple Store Experience’ to retailers through the creation of inventory-centric point of sale systems. Headquartered in Montréal, Canada, Lightspeed is trusted by favorite local businesses, where the community goes to a shop and dine. It has offices in Canada, USA, Europe, and Australia.
 Dax DaSilva, Lightspeed’s CEO, founded the company in 2005 and remains the central figure behind its corporate direction, vision, culture, and product development. Dax is supported by a highly experienced management team and expert public company Board of Directors.
 Lightspeed is fund by two major partners, Accel Partners and iNovia Capital as follow:
-•	Accel Partners led a $30 million investment round in 2012; 
-•	In 2014, Lightspeed closed a $35 million investment round led by iNovia Capital;
-•	In September 2015, Lightspeed closed a $61 million Series C round of funding led by Caisse de dépôt et placement du Québec and Investissement Québec;
-•	In October 2017, Lightspeed POS Inc. raised about $160 million in a new round of venture-capital funding. 
+* Accel Partners led a $30 million investment round in 2012; 
+* In 2014, Lightspeed closed a $35 million investment round led by iNovia Capital;
+* In September 2015, Lightspeed closed a $61 million Series C round of funding led by Caisse de dépôt et placement du Québec and Investissement Québec;
+* In October 2017, Lightspeed POS Inc. raised about $160 million in a new round of venture-capital funding. 
 	On January 30, 2019, Lightspeed Payments rolled out. In March, the company went public on the Toronto Stock Exchange (TSX) under the symbol LSPD.TO. On September 11, 2020, it began trading on the New York Stock Exchange (NYSE) under the symbol LSPD, raising $ 305M.
 	Dax Dasilva initial idea is to use the raised money to develop new products, as well as, to add new acquisitions. The company CEO believes that Canadian Tech companies are respected and encouraged to be technologies and categories leaders.
 	The domain of the company is Point of Sale System; They’re the software and hardware that a retail business needs to run their business. From ordering and managing inventory to processing transactions, managing customers, and staff, the point of sale is the central hub that helps retailers grow their business. 
@@ -27,13 +27,13 @@ Lightspeed is fund by two major partners, Accel Partners and iNovia Capital as f
 Figure 1 Main Customers
 1.	Retail and eCommerce stores
 	Lightspeed Retail wasn’t built for side-hustles. Optimize stock, make sales, and learn from your data to grow your business
-	Retail point of sale;
-	Smart inventory management;
-	Powerful reporting;
-	Flexible payment options;
-	Multi-store capabilities;
-	eCommerce integration;
-	Explore our Retail POS.
+* Retail point of sale;
+* Smart inventory management;
+* Powerful reporting;
+* Flexible payment options;
+* Multi-store capabilities;
+* eCommerce integration;
+* Explore our Retail POS.
 
 2.	Restaurants and hospitality businesses
 	Built for full service, quick service, bars, cafes, and hotel restaurants, Lightspeed Restaurant is equipped to handle the busiest environments.
