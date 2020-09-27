@@ -117,8 +117,13 @@ Lightspeed would implement technologies as follow:
 
 Sources:
 
-www.Questrade.com. 
-www.lightspeedhq.com.
-www.squareup.com/ca.
-www.shopify.ca.
-https://stackshare.io/feed.
+www.Questrade.com
+
+www.lightspeedhq.com
+
+www.squareup.com/ca
+
+www.shopify.ca
+
+https://stackshare.io/feed
+
