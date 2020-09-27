@@ -22,10 +22,14 @@ Lightspeed is fund by two major partners, Accel Partners and iNovia Capital as f
 * In 2014, Lightspeed closed a $35 million investment round led by iNovia Capital;
 * In September 2015, Lightspeed closed a $61 million Series C round of funding led by Caisse de dépôt et placement du Québec and Investissement Québec;
 * In October 2017, Lightspeed POS Inc. raised about $160 million in a new round of venture-capital funding. 
-	On January 30, 2019, Lightspeed Payments rolled out. In March, the company went public on the Toronto Stock Exchange (TSX) under the symbol LSPD.TO. On September 11, 2020, it began trading on the New York Stock Exchange (NYSE) under the symbol LSPD, raising $ 305M.
-	Dax Dasilva initial idea is to use the raised money to develop new products, as well as, to add new acquisitions. The company CEO believes that Canadian Tech companies are respected and encouraged to be technologies and categories leaders.
-	The domain of the company is Point of Sale System; They’re the software and hardware that a retail business needs to run their business. From ordering and managing inventory to processing transactions, managing customers, and staff, the point of sale is the central hub that helps retailers grow their business. 
-	Acting in industries as Retail, Restaurant, and Golf business, to bring Cloud-based solutions for real businesses. Lightspeed helps businesses manage multiple systems together and helping access multiple revenue streams all in one place. Also working remotely, accessing everything from an iPad or mobile phones. And future-proof the business with intuitive, modern tools and regular software updates.  
+
+On January 30, 2019, Lightspeed Payments rolled out. In March, the company went public on the Toronto Stock Exchange (TSX) under the symbol LSPD.TO. On September 11, 2020, it began trading on the New York Stock Exchange (NYSE) under the symbol LSPD, raising $ 305M.
+
+Dax Dasilva initial idea is to use the raised money to develop new products, as well as, to add new acquisitions. The company CEO believes that Canadian Tech companies are respected and encouraged to be technologies and categories leaders.
+
+The domain of the company is Point of Sale System; They’re the software and hardware that a retail business needs to run their business. From ordering and managing inventory to processing transactions, managing customers, and staff, the point of sale is the central hub that helps retailers grow their business. 
+
+Acting in industries as Retail, Restaurant, and Golf business, to bring Cloud-based solutions for real businesses. Lightspeed helps businesses manage multiple systems together and helping access multiple revenue streams all in one place. Also working remotely, accessing everything from an iPad or mobile phones. And future-proof the business with intuitive, modern tools and regular software updates.  
  
 ![Lightspeed](maincustomers.jpg)
 
