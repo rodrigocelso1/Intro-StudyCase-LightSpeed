@@ -69,7 +69,7 @@ Throughout any device with internet connectivity — whether it is a laptop, des
 •	Open new stores, fast.
 •	Customer relationship management capabilities.
  
-	Regarding the hardware products a business needs, can vary depending on their business type. Below is listed the most common hardware used by the retailer, but keep in mind that not every business need all these products: 
+Regarding the hardware products a business needs, can vary depending on their business type. Below is listed the most common hardware used by the retailer, but keep in mind that not every business need all these products: 
 •	POS terminal.
 •	Credit card reader.
 •	Receipt printer.
@@ -117,8 +117,8 @@ Lightspeed would implement technologies as follow:
 
 Sources:
 
-www.Questrade.com 
-www.lightspeedhq.com
-www.squareup.com/ca
-www.shopify.ca
-https://stackshare.io/feed
+www.Questrade.com. 
+www.lightspeedhq.com.
+www.squareup.com/ca.
+www.shopify.ca.
+https://stackshare.io/feed.
