@@ -27,6 +27,8 @@ Lightspeed is fund by two major partners, Accel Partners and iNovia Capital as f
 	The domain of the company is Point of Sale System; They’re the software and hardware that a retail business needs to run their business. From ordering and managing inventory to processing transactions, managing customers, and staff, the point of sale is the central hub that helps retailers grow their business. 
 	Acting in industries as Retail, Restaurant, and Golf business, to bring Cloud-based solutions for real businesses. Lightspeed helps businesses manage multiple systems together and helping access multiple revenue streams all in one place. Also working remotely, accessing everything from an iPad or mobile phones. And future-proof the business with intuitive, modern tools and regular software updates.  
  
+![Lightspeed](maincustomers.jpg)
+
 Figure 1 Main Customers
 1.	Retail and eCommerce stores
 	Lightspeed Retail wasn’t built for side-hustles. Optimize stock, make sales, and learn from your data to grow your business
@@ -85,6 +87,7 @@ Regarding the hardware products a business needs, can vary depending on their bu
 
 To better understand the practical Lightspeed POS service, the following is an example of how the company is positioned in the market:
  
+ ![Lightspeed](FC Cincinnati.jpg)
 
 Lightspeed is pride on the fact that their customers have generated an average of more than 20% revenue growth in their first full year on our platform, generating strong loyalty and a positive net dollar retention rate. It will continue to invest in marketing strategies tailored to attract new businesses to the platform. The company also offers options for processing curbside pickups and mobile wallet payments, and integrations with U.S. tech giants like Google and Stripe.	Lightspeed aspires to help growing small business being one-stop shop, offering service as track inventory, schedule home delivers and establish loyalty programs.
 
