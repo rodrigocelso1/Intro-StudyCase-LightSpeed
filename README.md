@@ -1,4 +1,4 @@
-# **Unit-1:Intro to Finance**
+# **Intro to Finance**
 
 ## FinTech **Case Study**
 
