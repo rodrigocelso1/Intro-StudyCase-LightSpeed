@@ -1,6 +1,6 @@
 # **Intro to Finance**
 
-## FinTech **Case Study**
+## FinTech **Study Case**
 
 ![Lightspeed](lightspeed.jpg)
 
